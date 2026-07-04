@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm Ibrahim Imran! 👋<br><br>I'm a passionate and results-driven professional with a strong foundation in Data Analytics and a keen interest in leveraging technology to drive Growth. My expertise lies in transforming complex data into actionable insights and crafting impactful visualizations that inform strategic decisions.<br><br>My Toolkit & Expertise:<br><br>•Programming Languages: Python, TypeScript, SQL<br>•Data & Analytics: Data Analysis, Exploratory Data Analysis (EDA), Power BI, Excel, Jupyter Notebooks<br>•Frontend Development: React, Vite, Tailwind CSS, Radix UI<br><br>What I Do:<br><br>As someone in Growth, I understand the critical role data plays in identifying opportunities, optimizing processes, and enhancing user experiences. My projects reflect my commitment to:<br><br>•Extracting Insights: Diving deep into datasets to uncover trends and patterns that fuel informed strategies.<br>•Creating Impactful Visualizations: Designing clear and compelling dashboards and reports that communicate complex information effectively.<br>•Solving Real-World Problems: Developing practical solutions, whether through data-driven applications or analytical models, to address business challenges.<br>•Building Engaging Experiences: Crafting modern and responsive web applications that provide seamless user interactions.<br><br>My Projects:<br>My GitHub profile showcases a range of projects, from data analysis initiatives and AI audit applications to frontend development with modern web technologies. These include:<br><br>•Data-focused projects: Demonstrating proficiency in Python for data manipulation, analysis, and visualization (e.g., E-commerce-EDA, Data-Analysis-, Decodelabs_Internships_Task_X series).<br>•Application Development: Building functional applications using Python (e.g., AI_Audit_app, MyGPA-Calculator, Calculator_app).<br>•Modern Web Development: Exploring frontend frameworks and design systems with TypeScript, React, and Tailwind CSS (e.g., silent-witness, SILENT_WITHNESS).<br><br>I'm always eager to connect with fellow innovators, collaborate on exciting projects, and explore new ways to drive growth through data and technology. Feel free to reach out or explore my repositories!<br><br>
 
-<!--
-**iibrahimimran/iibrahimimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iibrahim_imran) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iibrahim_imran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ibrahim-imran-datascientist) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itz.ibrahim005@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=iibrahimimran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=iibrahimimran&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iibrahimimran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iibrahimimran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
